@@ -1,6 +1,4 @@
 # CP2
-Doorbell: 
-button, frame to hold button, wire, speaker or ringer, screws to hold exterior parts
 
-Bladed fan:
-blade, center piece, cage cover thing front and back, motor case, motor, wire, button covers, pole for support, base, cord, plug end
+Balls App:
+screen surface area, ball speed, ballsize, randomized block, number in block, angle reflection off block, wall reflection angle, touch positioning, aim control graphics based on positioning
